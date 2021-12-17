@@ -1,5 +1,20 @@
+/* .background {
+  background:  linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)) , url('resources/anna-hunko-LlIh_R-Buzg-unsplash.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	height:1000px;
+	max-height:1000px;
+} */
 .personalize-title{
-	position: absolute;
+	position: relative;
 	top: 30%;
-
+}
+/* h1,h5,label{
+	color:white; */
+	  /* text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; */
+}
+body{
+	background: linear-gradient(90deg, rgba(239,239,239,1) 73%, rgba(255,180,86,1) 100%); 
 }

@@ -1,0 +1,29 @@
+academic
+
+political
+
+media and publication
+
+theater and art
+
+cultural
+
+religious
+
+sports
+
+military
+
+*do more personal info towards end
+
+questions:
+what is your sex?
+what is your ethnicity?
+what is your religion?
+which field are you interested in?
+-> science, business, arts: type specifics
+* hard one to implement: are you interested in frat/sorority life?
+what do you do for fun?
+-> play sports, play games, casual hobby
+are you currently, or were you previously enrolled in military?
+what is your poltiical view?
